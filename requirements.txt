@@ -70,7 +70,7 @@ langchain-classic==1.0.1
 langchain-community==0.3.16
 langchain-core==0.3.33
 langchain-openai==0.3.3
-langchain-text-splitters==0.3.5
+langchain-text-splitters>=1.1.0,<2.0.0
 langgraph==1.0.6
 langgraph-checkpoint==4.0.0
 langgraph-prebuilt==1.0.6
